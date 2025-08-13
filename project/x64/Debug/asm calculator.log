@@ -1,0 +1,6 @@
+﻿  Assembling main1.asm...
+main1.asm(1): error A2008: syntax error : .
+main1.asm(2): error A2008: syntax error : .
+main1.asm(17): error A2070: invalid instruction operands
+main1.asm(18): error A2070: invalid instruction operands
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: Polecenie ml64.exe /c /nologo /Zi /Fo"x64\Debug\main1.obj" /W3 /errorReport:prompt  /Tamain1.asm zostało zakończone; kod błędu: 1.
